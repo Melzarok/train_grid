@@ -357,27 +357,21 @@ p {
   display: grid;
   grid-template-areas: 'first second' 'first third' 'fourth fifth' 'fourth sixth';
 }
-
 .taks42 .item1 {
   grid-area: first;
 }
-
 .taks42 .item2 {
   grid-area: second;
 }
-
 .taks42 .item3 {
   grid-area: third;
 }
-
 .taks42 .item4 {
   grid-area: fourth;
 }
-
 .taks42 .item5 {
   grid-area: fifth;
 }
-
 .taks42 .item6 {
   grid-area: sixth;
 }
